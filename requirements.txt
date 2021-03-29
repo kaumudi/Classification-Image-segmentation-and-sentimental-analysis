@@ -67,7 +67,7 @@ py4j==0.10.4
 pycocotools==2.0
 pycparser==2.18
 pygal==2.4.0
-Pygments==2.2.0
+Pygments==2.7.4
 pykerberos==1.1.14
 pyOpenSSL==17.2.0
 pyparsing==2.2.0
